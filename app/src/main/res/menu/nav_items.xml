@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/mnuInicio"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:icon="@drawable/home"
+            android:title="Inicio" />
+        <item
+            android:id="@+id/mnuRegistro"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:icon="@drawable/verify"
+            android:title="Registro" />
+        <item
+            android:id="@+id/mnuLista"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:icon="@drawable/lista"
+            android:title="Lista" />
+    </group>
+</menu>

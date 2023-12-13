@@ -1,0 +1,28 @@
+<resources>
+<string name="app_name">Alumnos</string>
+
+<string name="nombre">Nombre y Apellido:</string>
+<string name="txt_nombre">Ingrese el Nombre Completo</string>
+<string name="carrera">Carrera</string>
+<string name="txt_carrera">Ingrese los Datos Requeridos</string>
+<string name="correo">Correo</string>
+<string name="txt_correo">Introduzca Correo Electronico</string>
+<string name="telefono">Telefono</string>
+<string name="txt_telefono">Introduzca Numero de Telefono</string>
+<string name="ci">Cedula de Identidad </string>
+<string name="txt_ci">Introduzca el Numero de documento</string>
+
+<string name="txt_descrip"   >Capacitate en la Tecnicatura Superior Informatica:\n
+
+          El Técnico en Informática es capaz de desempeñarse en tareas de producción,
+        diseño y mantenimiento de software en diversos tipos de proyectos de Sistemas de Información.
+        Colabora en el estudio de los problemas y las necesidades presentes en una empresa para determinar
+        en qué medida los Sistemas de Información pueden darle soluciones integrales a los mismos.
+        Puede participar en equipos de trabajo interdisciplinarios,
+        y empresas Pymes en el área de las Tecnologías de la Información. </string>
+
+
+<string name="btn_guardar">Guardar</string>
+<string name="btn_inicio">Inicio</string>
+
+</resources>
